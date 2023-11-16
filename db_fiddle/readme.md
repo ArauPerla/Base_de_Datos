@@ -12,3 +12,6 @@ https://www.db-fiddle.com/f/6hmCEurp498VGScLHxnpLY/3
 
 Funciones
 https://www.db-fiddle.com/f/6hmCEurp498VGScLHxnpLY/4
+
+Coneccion entre tablas (INNER JOIN-LEFT-R)
+https://www.db-fiddle.com/f/6hmCEurp498VGScLHxnpLY/5
